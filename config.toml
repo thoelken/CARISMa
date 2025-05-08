@@ -1,0 +1,46 @@
+baseURL = "https://USERNAME.github.io/charisma-website/"
+languageCode = "en-us"
+title = "Charisma"
+theme = "gohugo-theme-ananke"
+enableGitInfo = false
+
+[menu]
+  [[menu.main]]
+    name = "About us"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Aims"
+    url = "/aims/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Work Programme"
+    url = "/work-programme/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Nachwuchsförderung"
+    url = "/nachwuchs/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Internal"
+    url = "/internal/"
+    weight = 8

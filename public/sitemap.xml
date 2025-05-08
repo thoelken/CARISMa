@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/charisma-website/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/aims/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/internal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/nachwuchs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/publications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/charisma-website/work-programme/</loc>
+  </url>
+</urlset>

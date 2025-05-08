@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Charisma</title>
+    <link>http://localhost:1313/charisma-website/</link>
+    <description>Recent content in About Us on Charisma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/charisma-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aims</title>
+      <link>http://localhost:1313/charisma-website/aims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/charisma-website/aims/</guid>
+      <description>&lt;p&gt;Describe the aims of the Charisma project here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nachwuchsförderung</title>
+      <link>http://localhost:1313/charisma-website/nachwuchs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/charisma-website/nachwuchs/</guid>
+      <description>&lt;p&gt;Information about Nachwuchsförderung.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/charisma-website/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/charisma-website/publications/</guid>
+      <description>&lt;p&gt;List of publications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work Programme</title>
+      <link>http://localhost:1313/charisma-website/work-programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/charisma-website/work-programme/</guid>
+      <description>&lt;p&gt;Outline the work programme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
