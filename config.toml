@@ -4,6 +4,8 @@ title = "CARISMa"
 theme = "gohugo-theme-ananke"
 enableGitInfo = true
 
+
+
 [menu]
   [[menu.main]]
     name = "About us"
