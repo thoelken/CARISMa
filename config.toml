@@ -1,8 +1,8 @@
-baseURL = "https://USERNAME.github.io/charisma-website/"
+baseURL = "https://thoelken.github.io/CARISMa/"
 languageCode = "en-us"
-title = "Charisma"
+title = "CARISMa"
 theme = "gohugo-theme-ananke"
-enableGitInfo = false
+enableGitInfo = true
 
 [menu]
   [[menu.main]]
