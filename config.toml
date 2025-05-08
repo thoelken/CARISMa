@@ -4,6 +4,9 @@ title = "CARISMa"
 theme = "bootstrap"
 enableGitInfo = true
 
+[params]
+  customCSS = ["css/custom.css"]
+
 [menu]
   [[menu.main]]
     name = "About us"
