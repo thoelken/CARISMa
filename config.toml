@@ -1,7 +1,7 @@
 baseURL = "https://thoelken.github.io/CARISMa/"
 languageCode = "en-us"
 title = "CARISMa"
-theme = "anake"
+theme = "ananke"
 enableGitInfo = true
 
 [menu]
