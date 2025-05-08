@@ -4,8 +4,6 @@ title = "CARISMa"
 theme = "ananke"
 enableGitInfo = true
 
-
-
 [menu]
   [[menu.main]]
     name = "About us"
