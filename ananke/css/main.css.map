@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/CARISMa/CARISMa",
+	"sourceRoot": "/home/ct/Downloads/charisma-website",
 	"sources": [
 		"ananke/css/main.css"
 	],
